@@ -81,6 +81,7 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
     - Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li, **Compositional Memory for Visual Question Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05676)
 
 ### Video QA
-  - Kuo-Hao Zeng, Tseng-Hung Chen, Ching-Yao Chuang, Yuan-Hong Liao, Juan Carlos Niebles, Min Sun, **Leveraging Video Descriptions to Learn Video Question Answering**, AAAI 2017. [[paper]](https://arxiv.org/abs/1611.04021)
+  - Yunseok Jang, Yale Song, Youngjae Yu, Youngjin Kim, Gunhee Kim, **TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering**, CVPR 2017. [[Paper]](https://arxiv.org/abs/1704.04497)
+  - Kuo-Hao Zeng, Tseng-Hung Chen, Ching-Yao Chuang, Yuan-Hong Liao, Juan Carlos Niebles, Min Sun, **Leveraging Video Descriptions to Learn Video Question Answering**, AAAI 2017. [[Paper]](https://arxiv.org/abs/1611.04021)
   - Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler, **MovieQA: Understanding Stories in Movies through Question-Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1512.02902)
   - Linchao Zhu, Zhongwen Xu, Yi Yang, Alexander G. Hauptmann, **Uncovering Temporal Context for Video Question and Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.04670)
