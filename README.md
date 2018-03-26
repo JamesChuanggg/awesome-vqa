@@ -5,21 +5,22 @@ A reading list of resources dedicated to visual(image/video) question answering.
 ## Contributing
 Please feel free to contact [me](http://jameschuanggg.github.io). Issues and PRs are also welcome.
 
-## NEWS: Latest State-of-The-Art (01/06/2017)
-Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
+## NEWS: Latest State-of-The-Art (25/07/2017)
+Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang, **Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering**, CVPR 2018. [[Paper]](https://arxiv.org/abs/1707.07998) [[Code]](https://github.com/peteanderson80/bottom-up-attention)
 
-<img src="file/mutan.png" width="800"> 
+<img src="file/anderson2018cvpr.png" width="800"> 
 
 ## Papers
 
 ### Review Papers
 - Latest Papers
-    - Kushal Kafle, and Christopher Kanan. ***Visual question answering: Datasets, algorithms, and future challenges.*** Computer Vision and Image Understanding (2017). [[Paper]](https://arxiv.org/abs/1610.01465)
-    - Qi Wu, Damien Teney, Peng Wang, Chunhua Shen, Anthony Dick, and Anton van den Hengel. ***Visual question answering: A survey of methods and datasets.*** Computer Vision and Image Understanding (2017). [[Paper]](https://arxiv.org/abs/1607.05910)
+    - Kushal Kafle, and Christopher Kanan. **Visual Question Answering: Datasets, Algorithms, and Future Challenges.** Computer Vision and Image Understanding (2017). [[Paper]](https://arxiv.org/abs/1610.01465)
+    - Qi Wu, Damien Teney, Peng Wang, Chunhua Shen, Anthony Dick, and Anton van den Hengel. **Visual Question Answering: A Aurvey of Methods and Datasets.** Computer Vision and Image Understanding (2017). [[Paper]](https://arxiv.org/abs/1607.05910)
 
 
 ### CLEVR QA
  - Latest Papers
+    - David Mascharka, Philip Tran, Ryan Soklaski, Arjun Majumdar, **Transparency by Design: Closing the Gap Between Performance and Interpretability in Visual Reasoning**, CVPR 2018. [[Paper]](https://arxiv.org/abs/1803.05268v1) [[Code]](https://github.com/davidmascharka/tbd-nets)
     - Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick, **CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning**, CVPR 2017. [[Paper]](http://vision.stanford.edu/pdf/johnson2017cvpr.pdf)
     - Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick, **Inferring and Executing Programs for Visual Reasoning**, arXiv:1705.03633, 2017. [[Paper]](https://arxiv.org/abs/1705.03633) 
     - Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Kate Saenko, **Learning to Reason: End-to-End Module Networks for Visual Question Answering**, 	arXiv:1704.05526, 2017. [[Paper]](https://arxiv.org/abs/1704.05526)
@@ -27,10 +28,13 @@ Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal 
 
 ### Image QA
  - Latest Papers
+    - Kushal Kafle, Scott Cohen, Brian Price, Christopher Kanan, **DVQA: Understanding Data Visualizations via Question Answering**, CVPR 2018. [[Paper]](https://arxiv.org/abs/1801.08163v1)
+    - Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang, **Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering**, CVPR 2018. [[Paper]](https://arxiv.org/abs/1707.07998) [[Code]](https://github.com/peteanderson80/bottom-up-attention)
+    - Damien Teney, Peter Anderson, Xiaodong He, Anton van den Hengel, **Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge**, arXiv:1708.02711, 2017. [[Paper]](https://arxiv.org/abs/1708.02711)
     - Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
     - Vahid Kazemi, Ali Elqursh, **Show, Ask, Attend, and Answer:
 A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[Paper]](https://arxiv.org/abs/1704.03162) [[Code]](https://github.com/Cyanogenoid/pytorch-vqa)
-    - Kushal Kafle, and Christopher Kanan. ***An Analysis of Visual Question Answering Algorithms.*** arXiv:1703.09684, 2017. [[Paper]](https://arxiv.org/abs/1703.09684)  [[website]](http://kushalkafle.com/projects/tdiuc)
+    - Kushal Kafle, and Christopher Kanan. **An Analysis of Visual Question Answering Algorithms.** arXiv:1703.09684, 2017. [[Paper]](https://arxiv.org/abs/1703.09684) [[website]](http://kushalkafle.com/projects/tdiuc)
     - Hyeonseob Nam, Jung-Woo Ha, Jeonghee Kim, **Dual Attention Networks for Multimodal Reasoning and Matching**, 		arXiv:1611.00471, 2016. [[Paper]](https://arxiv.org/abs/1611.00471) 
     - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847) [[code]](https://github.com/akirafukui/vqa-mcb)
@@ -60,6 +64,8 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
     - Mateusz Malinowski, Mario Fritz, **A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input**, NIPS 2014. [[Paper]](http://arxiv.org/pdf/1410.0210v4.pdf)
      
  - Attention-Based
+    - Peter Anderson, Xiaodong He, Chris Buehler, Damien Teney, Mark Johnson, Stephen Gould, Lei Zhang, **Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering**, CVPR 2018. [[Paper]](https://arxiv.org/abs/1707.07998) [[Code]](https://github.com/peteanderson80/bottom-up-attention)
+    - Damien Teney, Peter Anderson, Xiaodong He, Anton van den Hengel, **Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge**, arXiv:1708.02711, 2017. [[Paper]](https://arxiv.org/abs/1708.02711)
     - Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
     - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847)
@@ -81,6 +87,8 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
     - Aiwen Jiang, Fang Wang, Fatih Porikli, Yi Li, **Compositional Memory for Visual Question Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.05676)
 
 ### Video QA
-  - Kuo-Hao Zeng, Tseng-Hung Chen, Ching-Yao Chuang, Yuan-Hong Liao, Juan Carlos Niebles, Min Sun, **Leveraging Video Descriptions to Learn Video Question Answering**, AAAI 2017. [[paper]](https://arxiv.org/abs/1611.04021)
-  - Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler, **MovieQA: Understanding Stories in Movies through Question-Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1512.02902)
-  - Linchao Zhu, Zhongwen Xu, Yi Yang, Alexander G. Hauptmann, **Uncovering Temporal Context for Video Question and Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.04670)
+  - Latest Papers
+    - Yunseok Jang, Yale Song, Youngjae Yu, Youngjin Kim, Gunhee Kim, **TGIF-QA: Toward Spatio-Temporal Reasoning in Visual Question Answering**, CVPR 2017. [[Paper]](https://arxiv.org/abs/1704.04497)
+    - Kuo-Hao Zeng, Tseng-Hung Chen, Ching-Yao Chuang, Yuan-Hong Liao, Juan Carlos Niebles, Min Sun, **Leveraging Video Descriptions to Learn Video Question Answering**, AAAI 2017. [[Paper]](https://arxiv.org/abs/1611.04021)
+    - Makarand Tapaswi, Yukun Zhu, Rainer Stiefelhagen, Antonio Torralba, Raquel Urtasun, Sanja Fidler, **MovieQA: Understanding Stories in Movies through Question-Answering**, CVPR 2016. [[Paper]](http://arxiv.org/abs/1512.02902)
+    - Linchao Zhu, Zhongwen Xu, Yi Yang, Alexander G. Hauptmann, **Uncovering Temporal Context for Video Question and Answering**, arXiv:1511.05676v1, Nov 2015. [[Paper]](http://arxiv.org/abs/1511.04670)
