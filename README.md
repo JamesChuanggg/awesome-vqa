@@ -58,6 +58,7 @@ A Strong Baseline For Visual Question Answering**, 			arXiv:1704.03162, 2016. [[
     - Mateusz Malinowski, Mario Fritz, **A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input**, NIPS 2014. [[Paper]](http://arxiv.org/pdf/1410.0210v4.pdf)
      
  - Attention-Based
+    - Liang, Junwei, et al. **Focal Visual-Text Attention for Visual Question Answering** Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. [[Paper]](https://arxiv.org/pdf/1806.01873)
     - Hedi Ben-younes, Remi Cadene, Matthieu Cord, Nicolas Thome: **MUTAN: Multimodal Tucker Fusion for Visual Question Answering** [[Paper]](https://arxiv.org/pdf/1705.06676.pdf) [[Code]](https://github.com/Cadene/vqa.pytorch)
     - Jin-Hwa Kim, Kyoung Woon On, Jeonghee Kim, Jung-Woo Ha, Byoung-Tak Zhang, **Hadamard Product for Low-rank Bilinear Pooling**, arXiv:1610.04325, 2016. [[Paper]](https://arxiv.org/abs/1610.04325)
     - Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach, **Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**,	arXiv:1606.01847, 2016. [[Paper]](https://arxiv.org/abs/1606.01847)
